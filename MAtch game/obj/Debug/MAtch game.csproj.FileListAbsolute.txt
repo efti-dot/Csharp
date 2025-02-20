@@ -1,0 +1,10 @@
+G:\C#\MAtch game\bin\Debug\MAtch game.exe.config
+G:\C#\MAtch game\bin\Debug\MAtch game.exe
+G:\C#\MAtch game\bin\Debug\MAtch game.pdb
+G:\C#\MAtch game\obj\Debug\MAtch game.csproj.AssemblyReference.cache
+G:\C#\MAtch game\obj\Debug\MAtch_game.Form1.resources
+G:\C#\MAtch game\obj\Debug\MAtch_game.Properties.Resources.resources
+G:\C#\MAtch game\obj\Debug\MAtch game.csproj.GenerateResource.cache
+G:\C#\MAtch game\obj\Debug\MAtch game.csproj.CoreCompileInputs.cache
+G:\C#\MAtch game\obj\Debug\MAtch game.exe
+G:\C#\MAtch game\obj\Debug\MAtch game.pdb
